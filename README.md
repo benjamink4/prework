@@ -5,9 +5,9 @@
 This app allows the user change the text,text color, and the background of the app
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/a/8j3fYj3#bfmlRvn" width=200><br>
+
+<img src="https://i.imgur.com/R5flGhe.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
