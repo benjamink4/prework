@@ -1,12 +1,17 @@
 # prework
-# prework
-# prework
+
 Pre Work Appp
 App Description
 This app allows the user change the text,text color, and the background of the app
+
  App Walk-though
+ 
 <img src="https://i.imgur.com/mTrKlKA.gif" width=200><br>
+
+
+
  Required User Stories
+ 
 [ x] 1. User sees custom text in a label - Hello from {name}!
 [ x] 2. User see's custom background color.
 [x ] 3. User can tap a button to change the text color of the label.
